@@ -47,7 +47,7 @@
   }
 }
 .sky-bg {
-  background-image: url(/dist/images/sky-bg.png);
+  background-image: url("/images/sky-bg.png");
   background-size: cover;
   .first-section {
     display: flex;
@@ -448,7 +448,7 @@ tr {
   width: 1291px;
 }
 .grey-bg {
-  background: url(/dist/images/grey-bg.png);
+  background: url("/images/grey-bg.png");
   .card-heading {
     text-align: center;
     margin-top: 80px;
@@ -549,7 +549,7 @@ tr {
   }
 }
 .star-sky {
-  background-image: url(/dist/images/sky-star.png);
+  background-image: url("/images/sky-star.png");
   background-size: cover;
 
   .star-heading {
